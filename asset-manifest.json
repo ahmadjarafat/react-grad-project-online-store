@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-grad-project-online-store/static/css/main.74832482.chunk.css",
+    "main.js": "/react-grad-project-online-store/static/js/main.efb2e5e9.chunk.js",
+    "main.js.map": "/react-grad-project-online-store/static/js/main.efb2e5e9.chunk.js.map",
+    "runtime-main.js": "/react-grad-project-online-store/static/js/runtime-main.2c6f9f92.js",
+    "runtime-main.js.map": "/react-grad-project-online-store/static/js/runtime-main.2c6f9f92.js.map",
+    "static/js/2.ca13a505.chunk.js": "/react-grad-project-online-store/static/js/2.ca13a505.chunk.js",
+    "static/js/2.ca13a505.chunk.js.map": "/react-grad-project-online-store/static/js/2.ca13a505.chunk.js.map",
+    "static/js/3.be1363c1.chunk.js": "/react-grad-project-online-store/static/js/3.be1363c1.chunk.js",
+    "static/js/3.be1363c1.chunk.js.map": "/react-grad-project-online-store/static/js/3.be1363c1.chunk.js.map",
+    "index.html": "/react-grad-project-online-store/index.html",
+    "static/css/main.74832482.chunk.css.map": "/react-grad-project-online-store/static/css/main.74832482.chunk.css.map",
+    "static/js/2.ca13a505.chunk.js.LICENSE.txt": "/react-grad-project-online-store/static/js/2.ca13a505.chunk.js.LICENSE.txt",
+    "static/media/girl-7.2ae21785.png": "/react-grad-project-online-store/static/media/girl-7.2ae21785.png",
+    "static/media/purse.e33163b6.png": "/react-grad-project-online-store/static/media/purse.e33163b6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c6f9f92.js",
+    "static/js/2.ca13a505.chunk.js",
+    "static/css/main.74832482.chunk.css",
+    "static/js/main.efb2e5e9.chunk.js"
+  ]
+}
